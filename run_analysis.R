@@ -17,8 +17,7 @@ if("plyr" %in% rownames(installed.packages()) == FALSE){
 }
 library("plyr")
 
-#PRE-TASKS: IF the user does not have the Samsung data in the wordking directory: GET IT
-
+#PRE-TASKS: Get data, place in raw_data folder
 #set URL, get zip and extract
 fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
