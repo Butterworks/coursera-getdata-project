@@ -4,7 +4,7 @@ This is my submission for the course project which includes the run_analysis.R, 
 The script was written using R Studio on Windows 8.1.
 Feel free to clone the repository and run the run_analysis.R script.
 ###Author
-The author of this repository is Rudolf J
+The author of this repository is [Rudolf J](https://www.coursera.org/user/i/86240c8fd18b7b9d403e1cec104bf180)
 ##1. run_analysis.R
 This is the main file for the folder, contains the required script that completes all 5 tasks 
 required by the course project outline.
