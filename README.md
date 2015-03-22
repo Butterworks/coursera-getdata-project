@@ -21,7 +21,7 @@ measurement.  Note, a new table is _not_ created, observationData is updated.
 All columns have appropriate names. The column names are; (1) Subject, refering the volunteer completeing an 
 activity, (2) Activity, refering to the activity being completed, and the subsequent column names follow the 
 study feature namining convention.  For the namening conventions used for the experiment, please refer to
-features_info.txt
+[features_info.txt](https://github.com/Butterworks/coursera-getdata-project/edit/master/features_info.txt)
 
 ##1.5. Run Task 5
 The last task completed is to create the tidydata.txt file using the write.table function.  The file is saved in
