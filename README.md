@@ -1,7 +1,9 @@
 # Coursera Gettting and Cleaning Data Course Project
 This is my submission for the course project which includes the run_analysis.R, README.md and Codebook.md
-##Author
-Rudolf J
+##Introduction
+The script was written using R Studio on Windows 8.1.
+Feel free to clone the repository and run the run_analysis.R script.
+
 ##1. run_analysis.R
 This is the main file for the folder, contains the required script that completes all 5 tasks 
 required by the course project outline.
